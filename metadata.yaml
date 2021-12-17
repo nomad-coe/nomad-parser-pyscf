@@ -1,0 +1,12 @@
+codeLabel: PySCF
+codeLabelStyle: 'Capitals: P'
+codeName: pyscf
+codeUrl: https://pyscf.org
+parserDirName: dependencies/parsers/pyscf/
+parserGitUrl: https://github.com/nomad-coe/nomad-parser-pyscf.git
+parserSpecific: ''
+preamble: ''
+tableOfFiles: |
+  |Input Filename| Description|
+  |--- | --- |
+  |`archive*.json` | **Mainfile:** a plain text file w/ **user-defined** name|
